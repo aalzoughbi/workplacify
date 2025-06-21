@@ -7,7 +7,7 @@ services:
   - type: web
     name: workplacify-app
     env: node
-    plan: starter
+    plan: free
     ## 👇 Specify the plan for the PR deployment:
     # previewPlan: starter
     ## 👇 Preview Environment Initialization script:
